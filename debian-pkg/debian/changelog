@@ -1,3 +1,9 @@
+xfwm4 (4.16.1-5) unstable; urgency=medium
+
+  * Limit build to distributions with Xfce 4.16
+
+ -- Marek Marczykowski-Górecki <marmarek@invisiblethingslab.com>  Sat, 07 Jun 2025 03:48:33 +0200
+
 xfwm4 (4.16.1-4) unstable; urgency=medium
 
   * Fix clearing build packages for selected distros
